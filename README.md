@@ -48,7 +48,7 @@ That's a brief overview of how to create an AWS account, an IAM user, create an 
 To get started with this application, follow these steps:
 1. Clone the repository to your local machine:
     ```
-    git clone https://github.com/your-username/s3-file-upload-nodejs.git
+    https://github.com/Vatsal-Dendpara/AWS-S3-Demo.git
     ```
 2. Install the required packages:
     ```
